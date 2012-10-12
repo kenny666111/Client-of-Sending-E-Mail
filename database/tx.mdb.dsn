@@ -1,0 +1,13 @@
+[ODBC]
+DRIVER=Driver do Microsoft Access (*.mdb)
+UID=admin
+UserCommitSync=Yes
+Threads=3
+SafeTransactions=0
+PageTimeout=5
+MaxScanRows=8
+MaxBufferSize=2048
+FIL=MS Access
+DriverId=25
+DefaultDir=E:\毕业设计\VC++邮件客户端系统\数据库
+DBQ=E:\毕业设计\VC++邮件客户端系统\数据库\tx.mdb
